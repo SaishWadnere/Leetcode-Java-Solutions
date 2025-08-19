@@ -1,0 +1,28 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
